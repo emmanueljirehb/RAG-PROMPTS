@@ -17,12 +17,7 @@ This repo helps you explore **how prompt structure and retrieved context** can i
 
 ## 📊 Project Flow Diagram (RAG Architecture)
 
-> _(Add your own architecture diagram here, or use this placeholder until then)_
-
-![RAG Workflow](https://raw.githubusercontent.com/emmanueljirehb/RAG-PROMPTS/main/assets/rag_workflow.png)
-
-> _**TIP:** You can create a simple RAG architecture diagram using tools like draw.io, Excalidraw, or Canva._
-
+![ChatGPT Image Jun 28, 2025, 09_28_10 PM](https://github.com/user-attachments/assets/9302eb74-d6e9-4e80-83b6-86729b378f15)
 ---
 
 ## ✅ Key Features
@@ -90,11 +85,11 @@ jupyter notebook
 🧑‍💻 **Author**
 
 * Emmanuel Jireh B
-* [GitHub Profile](https://github.com/emmanueljirehb) (Replace with the actual link)
+* [GitHub Profile](https://github.com/emmanueljirehb)
 
 📚 **References**
 
-* [OpenAI API Docs](https://platform.openai.com/docs/api-reference) (Added a common link)
+* [OpenAI API Docs](https://platform.openai.com/docs/api-reference)
 * Research Papers on Retrieval-Augmented Generation (RAG)
-* [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction.html) (Added a common link)
-* [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/) (Added a common link)
+* [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction.html) 
+* [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/) 
